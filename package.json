@@ -1,0 +1,30 @@
+{
+  "name": "webpack-extract-oftn-l10n",
+  "version": "1.0.0",
+  "description": "Webpack plugin for extracting localization strings for the oftn-l10n library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oftn-oswg/webpack-extract-oftn-l10n.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "localization",
+    "locale",
+    "language",
+    "lang",
+    "translation",
+    "translators",
+    "extract"
+  ],
+  "author": "Devin Samarin <me@dsamar.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oftn-oswg/webpack-extract-oftn-l10n/issues"
+  },
+  "homepage": "https://github.com/oftn-oswg/webpack-extract-oftn-l10n#readme"
+}
